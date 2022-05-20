@@ -1,0 +1,867 @@
+body {
+    background-image: url(Addatives/bACKG6OND.png);
+}
+.hei {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    right: 50%; 
+    top: 20%;
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+
+    opacity: 100;
+
+    z-index: 3;
+
+    transition: 250ms linear;
+}
+.surveytrophy {
+    position: absolute;
+    width:100px;
+    height:100px;
+
+    top: 80%;
+    left: 32.3%;
+
+    opacity: 0;
+
+    transition: 150ms linear;
+}
+.surveytrophy:hover {
+    transform: scale(1.1);
+}
+.N-Trophy {
+    position: absolute;
+    width:100px;
+    height:100px;
+
+    top: 80%;
+    left: 37.3%;
+
+    opacity: 0;
+
+    transition: 150ms linear;
+}
+.N-Trophy:hover {
+    transform: scale(1.1);
+}
+.welc {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    right: 42%; 
+    top: 20%;
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+
+    z-index: 2;
+
+    opacity: 0;
+
+    transition: 250ms linear;
+}
+.hru {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    right: 32%; 
+    top: 20%;
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+
+    z-index: 2;
+
+    opacity: 0;
+
+    transition: 250ms linear;
+}
+.surp {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    right: 33%; 
+    top: 27%;
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+
+    z-index: 2;
+
+    opacity: 0;
+
+    transition: 250ms linear;
+}
+.wow1 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    right: 33%; 
+    top: 27%;
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+
+    z-index: 2;
+
+    opacity: 0;
+
+    transition: 250ms linear;
+}
+.wow2 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    right: 17%; 
+    top: 40%;
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+
+    z-index: 2;
+
+    opacity: 0;
+
+    transition: 250ms linear;
+}
+.wow3 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    right: 37%; 
+    top: 25%;
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+
+    z-index: 2;
+
+    opacity: 0;
+
+    transition: 250ms linear;
+}
+.wow4 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    right: 22%; 
+    top: 10%;
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+
+    z-index: 2;
+
+    opacity: 0;
+
+    transition: 250ms linear;
+}
+.wow5 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    right: 52%; 
+    top: 32%;
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+
+    z-index: 2;
+
+    opacity: 0;
+
+    transition: 250ms linear;
+}
+.M2C {
+    position: absolute;
+    right: 15.6%;
+    top: 53%;
+    width: 0px;
+    opacity: 0;
+}
+.NP {
+    position: absolute;
+    right: 15.6%;
+    top: 78%;
+    width: 0px;
+    opacity: 0;
+}
+.PRESSIT {
+    position: absolute;
+    right: 15.6%;
+    top: 65%;
+    width: 0px;
+    opacity: 0;
+}
+.pton {
+    position: absolute;
+    right: 11.6%;
+    top: 11%;
+    width: 0px;
+    opacity: 0;
+}
+.js2 {
+    position: absolute;
+    right: 15.6%;
+    top: 23%;
+    width: 0px;
+    opacity: 0;
+}
+.htmlcss {
+    position: absolute;
+    right: 15.6%;
+    top: 34%;
+    width: 0px;
+    opacity: 0;
+}
+.navbar {
+    position: fixed;
+    top: -3px;
+    left: 0;
+    width: 7rem;
+    height: 110vh;
+    background-color: #fff;
+    z-index: -1;
+    transition: width 0.5s;
+    overflow: hidden;
+    opacity: 0.3;
+}
+.home {
+    z-index: 1;
+    position: absolute;
+    left: 1%;
+    width: 70px;
+    transition: 50ms linear; 
+}
+.home:hover {
+    opacity: 0.5;
+    width: 4%;
+    left:0.8%;
+    cursor: pointer;
+}
+.exp {
+    z-index: 1;
+    position: absolute;
+    left: 1%;
+    top: 26%;
+    width: 70px;
+    transition: 50ms linear; 
+}
+.exp:hover {
+    opacity: 0.5;
+    width: 4%;
+    left:0.8%;
+    cursor: pointer;
+}
+.connect {
+    z-index: 1;
+    position: absolute;
+    left: 1%;
+    top: 35%;
+    width: 70px;
+    transition: 50ms linear; 
+}
+.connect:hover {
+    opacity: 0.5;
+    width: 4%;
+    left:0.8%;
+    cursor: pointer;
+}
+.nicText {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    right: 77%; 
+    top: 7.5%;
+    color: rgb(75, 75, 75);
+
+    transition: 145ms linear;
+}
+.nicText2 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    right: 68.3%; 
+    top: 13%;
+    color: rgb(92, 92, 92);
+    
+    transition: 145ms linear;
+}
+.nicText3 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    right: 61%; 
+    top: 18%;
+    color: rgb(119, 119, 119);
+    
+    transition: 145ms linear;
+}
+.nicText:hover {
+    color: rgba(94, 207, 94, 0.315);
+    transform: scale(1.1);
+}
+.nicText2:hover {
+    color: rgba(137, 230, 137, 0.315);
+    transform: scale(1.1);
+}
+.nicText3:hover {
+    color: rgba(168, 247, 168, 0.315);
+    transform: scale(1.1);
+}
+.N-Nicolas {
+    width: 3%;
+    right: 82%; 
+    top: 8.7%;
+    position: absolute;
+    transition: 270ms all;
+}
+.N-Nicolas:hover {
+    opacity: 0.1;
+}
+.expe {
+    right: 0%;
+    position: absolute; 
+}
+.ExperienceText {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    right: 43.5%; 
+    top: 3.5%;
+    color: rgb(255, 255, 255);
+    font-size: 3.5rem;
+}
+.ProjectsText {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    right: 45.5%; 
+    top: 120.5%;
+    color: rgb(255, 255, 255);
+    font-size: 3.5rem;
+}
+.projec {
+    right: 0%;
+    top: 135.5%;
+    position: absolute; 
+}
+.discordcont {
+    z-index: 1;
+    position: absolute;
+    left: 45%;
+    top: 35%;
+    width: 170px;
+    transition: 50ms linear; 
+}
+.discordcont:hover {
+    opacity: 0.5;
+    width: 165px;
+    left: 45%;
+    cursor: pointer;
+}
+.discordText {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute; 
+    right: 38%; 
+    top: 47%;
+    color: rgb(94, 94, 94);
+    font-size: 3.5rem;
+}
+.textarea {
+    width: 32%;
+    min-height: 250px;
+    overflow: scroll;
+    margin: auto;
+    display: inline-block;
+    background: #f4f4f9;
+    outline: none;
+    font-family: Courier, sans-serif;
+    font-size: 14px;
+}
+.iframe {
+    bottom: 0;
+    position: relative;
+    width: 100%;
+    height: 35em;
+}
+.js {
+    position: absolute;
+    left: 12.1%;
+    top: 35%;
+    width: 45%;
+    height: 35%;
+    z-index: -1;
+    background-color: black;
+    color: rgb(27, 177, 22);
+    font-size: 20px;
+}
+.codeFrame {
+    width: 0%;
+    height: 0%;
+    opacity: 0;
+}
+.compileButton {
+    position: absolute;
+    top: 70%;
+    left: 12.1%;
+
+    width: 45.35%;
+    height: 5%;
+
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color:rgba(255, 255, 255, 0.308);
+    background-color: rgb(0, 0, 0);
+}
+.N2-Letter {
+    width:111px; 
+    margin-top: -7.3px; 
+    position: relative; 
+    right: 0.38%; 
+    background-color: #2b2b2b00;
+    transition: 250ms all;
+}
+.N2-Letter:hover {
+    transform: rotate(360deg);
+}
+.light {
+    position: absolute;
+    right: 42.6%;
+    top: 33%;
+    color:rgba(255, 255, 255, 0.308);
+    background-color: rgb(0, 0, 0);
+}
+.dark {
+    position: absolute;
+    right: 49%;
+    top: 33%;
+    color:rgba(255, 255, 255, 0.308);
+    background-color: rgb(0, 0, 0);
+}
+.N-Letter {
+    width: 40%; 
+    top: 0%; 
+    right: 0%; 
+    position: absolute;
+    transition: 250ms all;
+}
+.N-Letter:hover {
+    transform: scale(1.05);
+    right: 1%;
+}
+.survey {
+    position: absolute;
+    right: 56%;
+    top: 21%;
+
+    background-color: black;
+    color:rgb(119, 119, 119);
+}
+@media only screen and (max-width: 375px) {
+    .discordcont {
+        z-index: 1;
+        position: absolute;
+        left: 45%;
+        top: 34%;
+        width: 130px;
+        transition: 50ms linear; 
+    }
+    .compileButton {
+        width: 0px;
+        height:0px;
+        opacity: 0%;
+    }
+    .iframe {
+        bottom: 0;
+        position: relative;
+        width: 0%;
+        height: 35em;
+        opacity: 0%;
+    }
+    .js {
+        position: absolute;
+        left: 12.1%;
+        top: 35%;
+        width: 0%;
+        height: 0%;
+        z-index: -1;
+        background-color: black;
+        color: rgba(27, 177, 22, 0);
+        font-size: 20px;
+        opacity: 0%;
+    }
+    .N-Letter {
+        width: 40%; 
+        top: -3%; 
+        right: 0%; 
+        position: absolute;
+        transition: 250ms all;
+    }
+    .codeFrame {
+        width: 0%;
+        height: 0%;
+        opacity: 0%;
+    }
+    .nicText {
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute; 
+        font-size: 28px;
+        right: 10%; 
+        top: 14%;
+        color: rgb(36, 36, 36);
+    }
+    .nicText2 {
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute; 
+        font-size: 21px;
+        right: 3%; 
+        top: 20%;
+        color: rgb(92, 92, 92);
+    }
+    .nicText3 {
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute; 
+        font-size: 15px;
+        right: 8.5%;
+        top: 24%;
+        color: rgb(119, 119, 119);
+    }
+    .N-Nicolas {
+        width: 13%;
+        right: 32.9%; 
+        top: 15.6%;
+        position: absolute; 
+    }
+    .home {
+        z-index: 1;
+        position: absolute;
+        left: 3%;
+        width: 70px;
+        transition: 50ms linear; 
+    }
+    .exp {
+        z-index: 1;
+        position: absolute;
+        left: 3%;
+        top: 35%;
+        width: 70px;
+        transition: 50ms linear; 
+    }
+    .connect {
+        z-index: 1;
+        position: absolute;
+        left: 3%;
+        top: 45%;
+        width: 70px;
+        transition: 50ms linear; 
+    }
+    .N2-Letter {
+        width:111px; 
+        margin-top: -7.3px; 
+        position: relative; 
+        right: 4.78%; 
+        background-color: #2b2b2b00;
+    }
+    .expe {
+        opacity: 0;
+        width: 0px;
+        height: 0px;
+    }
+    .ExperienceText {
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute; 
+        right: 15.5%; 
+        top: -2.5%;
+        color: rgb(255, 255, 255);
+        font-size: 37.5px;
+    }
+    .ProjectsText {
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute; 
+        right: 23.5%; 
+        top: 47.5%;
+        color: rgb(255, 255, 255);
+        font-size: 37.5px;
+    }
+    .projec {
+        opacity: 0;
+        width: 0px;
+        height: 0px;
+    }
+    .navbar {
+        position: fixed;
+        top: -3px;
+        left: 0;
+        width: 7rem;
+        height: 137vh;
+        background-color: #fff;
+        z-index: -1;
+        transition: width 0.5s;
+        overflow: hidden;
+    }
+    .discordText {
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute; 
+        right: 10%; 
+        top: 52%;
+        color: rgb(94, 94, 94);
+        font-size: 1.5rem;
+    }
+    .light {
+        position: absolute;
+        right: 5.6%;
+        top: 33%;
+        color:rgb(255, 255, 255);
+        background-color: rgb(0, 0, 0);
+    }
+    .dark {
+        position: absolute;
+        right: 39%;
+        top: 33%;
+        color:rgb(255, 255, 255);
+        background-color: rgb(0, 0, 0);
+    }
+    .M2C {
+        position: absolute;
+        right: 15.6%;
+        top: 55%;
+        width: 200px;
+        opacity: 100;
+    }
+    .NP {
+        position: absolute;
+        right: 15.6%;
+        top: 80%;
+        width: 200px;
+        opacity: 100;
+    }
+    .PRESSIT {
+        position: absolute;
+        right: 15.6%;
+        top: 67%;
+        width: 200px;
+        opacity: 100;
+    }
+    .pton {
+        position: absolute;
+        right: 11.6%;
+        top: 4%;
+        width: 250px;
+        opacity: 100;
+    }
+    .js2 {
+        position: absolute;
+        right: 15.6%;
+        top: 19%;
+        width: 230px;
+        opacity: 100;
+    }
+    .htmlcss {
+        position: absolute;
+        right: 15.6%;
+        top: 34%;
+        width: 230px;
+        opacity: 100;
+    }
+    .survey {
+        position: absolute;
+        right: 25%;
+        top: 40%;
+
+        width: 100px;
+        height: 50px;
+
+        font-size: larger;
+    
+        background-color: black;
+        color:rgb(255, 255, 255);
+    }
+}
+
+@media only screen and (min-width: 376px) and (max-width: 418px) {
+    .compileButton {
+        width: 0px;
+        height:0px;
+        opacity: 0%;
+    }
+    .iframe {
+        bottom: 0;
+        position: relative;
+        width: 0%;
+        height: 35em;
+        opacity: 0%;
+    }
+    .js {
+        position: absolute;
+        left: 12.1%;
+        top: 35%;
+        width: 0%;
+        height: 0%;
+        z-index: -1;
+        background-color: black;
+        color: rgba(27, 177, 22, 0);
+        font-size: 20px;
+        opacity: 0%;
+    }
+    .codeFrame {
+        width: 0%;
+        height: 0%;
+        opacity: 0%;
+    }
+    .nicText {
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute; 
+        font-size: 28px;
+        right: 10%; 
+        top: 15%;
+        color: rgb(36, 36, 36);
+    }
+    .nicText2 {
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute; 
+        font-size: 21px;
+        right: 3%; 
+        top: 20%;
+        color: rgb(92, 92, 92);
+    }
+    .nicText3 {
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute; 
+        font-size: 15px;
+        right: 8.5%;
+        top: 24%;
+        color: rgb(119, 119, 119);
+    }
+    .N-Nicolas {
+        width: 13%;
+        right: 31.5%; 
+        top: 16%;
+        position: absolute; 
+    }
+    .home {
+        z-index: 1;
+        position: absolute;
+        left: 3%;
+        width: 70px;
+        transition: 50ms linear; 
+    }
+    .exp {
+        z-index: 1;
+        position: absolute;
+        left: 3%;
+        top: 32%;
+        width: 70px;
+        transition: 50ms linear; 
+    }
+    .connect {
+        z-index: 1;
+        position: absolute;
+        left: 3%;
+        top: 45%;
+        width: 70px;
+        transition: 50ms linear; 
+    }
+    .N2-Letter {
+        width:111px; 
+        margin-top: -7.3px; 
+        position: relative; 
+        right: 1.78%; 
+        background-color: #2b2b2b00;
+    }
+    .expe {
+        opacity: 0;
+        width: 0px;
+        height: 0px;
+    }
+    .ExperienceText {
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute; 
+        right: 15.5%; 
+        top: 3.5%;
+        color: rgb(255, 255, 255);
+        font-size: 37.5px;
+    }
+    .ProjectsText {
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute; 
+        right: 23.5%; 
+        top: 45.5%;
+        color: rgb(255, 255, 255);
+        font-size: 37.5px;
+    }
+    .projec {
+        opacity: 0;
+        width: 0px;
+        height: 0px;
+    }
+    .navbar {
+        position: fixed;
+        top: -3px;
+        left: 0;
+        width: 7rem;
+        height: 137vh;
+        background-color: #fff;
+        z-index: -1;
+        transition: width 0.5s;
+        overflow: hidden;
+    }
+    .discordText {
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute; 
+        right: 10%; 
+        top: 52%;
+        color: rgb(94, 94, 94);
+        font-size: 1.5rem;
+    }
+    .light {
+        position: absolute;
+        right: 5.6%;
+        top: 33%;
+        color:rgb(255, 255, 255);
+        background-color: rgb(0, 0, 0);
+    }
+    .dark {
+        position: absolute;
+        right: 39%;
+        top: 33%;
+        color:rgb(255, 255, 255);
+        background-color: rgb(0, 0, 0);
+    }
+    .M2C {
+        position: absolute;
+        right: 15.6%;
+        top: 53%;
+        width: 200px;
+        opacity: 100;
+    }
+    .NP {
+        position: absolute;
+        right: 15.6%;
+        top: 78%;
+        width: 200px;
+        opacity: 100;
+    }
+    .PRESSIT {
+        position: absolute;
+        right: 15.6%;
+        top: 65%;
+        width: 200px;
+        opacity: 100;
+    }
+    .pton {
+        position: absolute;
+        right: 11.6%;
+        top: 11%;
+        width: 250px;
+        opacity: 100;
+    }
+    .js2 {
+        position: absolute;
+        right: 15.6%;
+        top: 23%;
+        width: 230px;
+        opacity: 100;
+    }
+    .htmlcss {
+        position: absolute;
+        right: 15.6%;
+        top: 34%;
+        width: 230px;
+        opacity: 100;
+    }
+    .survey {
+        position: absolute;
+        right: 25%;
+        top: 40%;
+
+        width: 100px;
+        height: 50px;
+
+        font-size: larger;
+    
+        background-color: black;
+        color:rgb(255, 255, 255);
+    }
+}
